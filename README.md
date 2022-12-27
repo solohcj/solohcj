@@ -1,5 +1,16 @@
 ### Hi there 👋
 
+
+<!-- Add Stats -->
+<!-- ![Solomon's GitHub stats](https://github-readme-stats.vercel.app/api?username=solohcj&count_private=true&show_icons=true&theme=tokyonight) -->
+
+<!-- Add Language -->
+
+<!-- Add Category of Projects:
+[add on list of each project, respective techniques and link-->
+
+
+
 <!--
 **solohcj/solohcj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
